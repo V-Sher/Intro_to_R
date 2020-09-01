@@ -1,2 +1,2 @@
 # Intro_to_R
-Day 1 of SADILAR workshop in South Africa - Sep 1 20202
+Day 1 of SADILAR workshop in South Africa - Sep 1 2020
